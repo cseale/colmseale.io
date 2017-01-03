@@ -1,0 +1,19 @@
+{
+  "name": "colmseale.io",
+  "version": "1.0.0",
+  "description": "My portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cseale/colmseale.io.git"
+  },
+  "author": "Colm Seale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cseale/colmseale.io/issues"
+  },
+  "homepage": "https://github.com/cseale/colmseale.io#readme"
+}
