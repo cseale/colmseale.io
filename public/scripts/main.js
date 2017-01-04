@@ -1,6 +1,13 @@
 (function() {
-  // print welcome message
-  var welcome = `
+/**
+
+I hacked this together late one night out of pure boredom.
+
+If for whatever reason, someone is looking at this code on github or a browser tools DON'T JUGDE ME!
+
+**/
+
+var welcome = `
 -------------------------------------------------
 
 These are all the files on record for subject:
