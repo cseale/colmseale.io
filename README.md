@@ -1,3 +1,2 @@
 # colmseale.io
-
-My Portfolio Site, coming soon... as I can be bothered...
+A fallout inspired, hacked together portfolio site
